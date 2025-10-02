@@ -2,9 +2,10 @@
 
 - [x] Update .gitignore with comprehensive Go exclusions
 - [x] Initialize Git repository
-- [ ] Add all files to Git
-- [ ] Make initial commit
+- [x] Add all files to Git
+- [x] Make initial commit
 - [ ] Install GitHub CLI (gh)
 - [ ] Create GitHub repository
 - [ ] Add remote origin
 - [ ] Push to GitHub
+- [x] Remove .vscode directory from tracking to respect .gitignore
