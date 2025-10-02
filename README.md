@@ -42,5 +42,21 @@ Connect is a Go-based web application template that provides user authentication
 - `templates/`: HTML templates for rendering pages
 - `.gitignore`: Specifies files and folders to ignore in Git
 
+## Using as a Template
+
+This repository is set up as a GitHub template. To use it for a new project:
+
+1. On GitHub, click the "Use this template" button to create a new repository.
+2. Clone the new repository to your local machine.
+3. Update the following files for your project:
+   - `go.mod`: Change the module name to match your new project.
+   - `.env`: Configure your database credentials and JWT secret.
+   - `templates/`: Customize HTML templates as needed.
+   - `handler/`: Modify or add handlers for your specific requirements.
+4. Run `go mod tidy` to update dependencies.
+5. Start developing your application.
+
+This template provides a solid foundation with authentication, database integration, and a basic dashboard, allowing you to focus on building your specific features.
+
 ## License
 This project is licensed under the MIT License.
