@@ -1,7 +1,7 @@
 # Connect - Go Web Application Template
 
 ## Overview
-Connect is a Go-based web application template that provides user authentication with signup and login functionality, and a protected dashboard. It uses JWT for session management and MySQL as the database. This repository is designed to be used as a starting point for new Go web projects.
+My_Web_Template_Of_Connect is a Go-based web application template that provides user authentication with signup and login functionality, and a protected dashboard. It uses JWT for session management and MySQL as the database. This repository is designed to be used as a starting point for new Go web projects.
 
 ## Features
 - User signup with validation and password hashing
